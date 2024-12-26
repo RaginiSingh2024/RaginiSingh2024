@@ -21,6 +21,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
+![GitHub Snake](https://raw.githubusercontent.com/RaginiSingh2024/snake1/refs/heads/main/github-user-contribution-3.svg)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raginisingh2024&show_icons=true&locale=en&layout=compact" alt="raginisingh2024" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raginisingh2024&show_icons=true&locale=en" alt="raginisingh2024" /></p>
