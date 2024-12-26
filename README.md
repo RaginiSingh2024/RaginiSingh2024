@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
- ![36166](https://github.com/user-attachments/assets/8b841c04-a66d-41bf-a242-d4c575e6f3f4)
+![computer](https://github.com/user-attachments/assets/e4d33d3e-0fd6-4b66-a2d3-3cee31c48d70)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raginisingh2024&label=Profile%20views&color=0e75b6&style=flat" alt="raginisingh2024" /> </p>
 
