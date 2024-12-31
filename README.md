@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ragini Singh</h1>
+![image](https://github.com/user-attachments/assets/169346f3-760e-4cc8-a5b6-90b08120562d)<h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
 
 
 
 
-<img align="center"><img src="![image](https://github.com/user-attachments/assets/61e77f67-aaaa-4f54-af72-d2f0d5628ede)">
 
-
+https://www.freepik.com/premium-vector/iit-specialist-demonstrating-advanced-computer-skills_329265721.htm#fromView=keyword&page=6&position=32&uuid=b494b7ee-6a18-41a0-b69a-ba96c907ee96&new_detail=true
 
 
 
