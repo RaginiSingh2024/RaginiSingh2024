@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
 
-
-
-
-
 ![image](https://github.com/user-attachments/assets/61e77f67-aaaa-4f54-af72-d2f0d5628ede)
-
-
-
-
-
-
 
 <p align="left"> <a href="https://twitter.com/@ raginisingh111" target="blank"><img src="https://img.shields.io/twitter/follow/@ raginisingh111?logo=twitter&style=for-the-badge" alt="@ raginisingh111" /></a> </p>
 
@@ -31,7 +21,7 @@
 
 <p align="left">
 <a href="https://twitter.com/@ raginisingh111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ raginisingh111" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ragini singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragini singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragini singh" height="30" width="40" /></a>
 <a href="https://kaggle.com/raginisinghrajpoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raginisinghrajpoot" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/raginis.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raginis.2025" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_ragini_rajput_111" target="blank"><img align="center"                                                                       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_ragini_rajput_111" height="30" width="40" /></a>                           
