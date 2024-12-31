@@ -5,7 +5,7 @@
 
 
 
-https://www.freepik.com/premium-vector/iit-specialist-demonstrating-advanced-computer-skills_329265721.htm#fromView=keyword&page=6&position=32&uuid=b494b7ee-6a18-41a0-b69a-ba96c907ee96&new_detail=true
+https://img.freepik.com/premium-vector/iit-specialist-demonstrating-advanced-computer-skills_1334819-20825.jpg?ga=GA1.1.19838858.1735673676&semt=ais_hybrid
 
 
 
