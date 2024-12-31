@@ -1,9 +1,10 @@
-![image](https://github.com/user-attachments/assets/169346f3-760e-4cc8-a5b6-90b08120562d)<h1 align="center">Hi 👋, I'm Ragini Singh</h1>
+<h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
 
 
 
 ![Uploading image.png…]()
+
 
 
 
