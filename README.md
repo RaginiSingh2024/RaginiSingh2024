@@ -3,9 +3,9 @@
 
 
 
+![Uploading image.png…]()
 
 
-https://img.freepik.com/premium-vector/iit-specialist-demonstrating-advanced-computer-skills_1334819-20825.jpg?ga=GA1.1.19838858.1735673676&semt=ais_hybrid
 
 
 
