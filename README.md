@@ -2,15 +2,9 @@
 <h3 align="center">A passionate Software Engineer from India</h3
 
 
+                                 
 
-<img align=“right”alt="coding”width="400"src=“
-https://images.app.goo.gl/sTWZvHJwzCRWR4a16
-”>
-
-                                                            
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raginisingh2024&label=Profile%20views&color=0e75b6&style=flat" alt="raginisingh2024" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raginisingh2024&show_icons=true&locale=en&layout=compact" alt="raginisingh2024" /></p>
 
 
 <p align="left"> <a href="https://twitter.com/@ raginisingh111" target="blank"><img src="https://img.shields.io/twitter/follow/@ raginisingh111?logo=twitter&style=for-the-badge" alt="@ raginisingh111" /></a> </p>
