@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ragini Singh</h1>
+![image](https://github.com/user-attachments/assets/612c0e37-8d85-4a92-b431-1be0c47247d5)<h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
 
 
 
 
 
-![Uploading image.png…]()
 
+https://images.app.goo.gl/2GNzSwdJagvmdVko7
 
 
 
