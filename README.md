@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Software Engineer from India</h3
                                                               
 https://www.freepik.com/premium-vector/iit-specialist-demonstrating-advanced-computer-skills_329257961.htm#fromView=keyword&page=6&position=12&uuid=2bf2944f-0167-4042-8507-c8277a79e4ff&new_detail=true
-￼
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raginisingh2024&label=Profile%20views&color=0e75b6&style=flat" alt="raginisingh2024" /> </p>
