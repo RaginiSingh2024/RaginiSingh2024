@@ -3,10 +3,10 @@
 
 
 
-![Uploading image.png…]()
 
 
 
+https://www.freepik.com/premium-vector/developer-using-mobile_32882604.htm#fromView=keyword&page=6&position=7&uuid=df2dc805-c3fa-48cb-83a7-ff13a9232ad4&new_detail=true
 
 
 
