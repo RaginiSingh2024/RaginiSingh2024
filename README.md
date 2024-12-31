@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ragini Singh</h1>
+![image](https://github.com/user-attachments/assets/61e77f67-aaaa-4f54-af72-d2f0d5628ede)<h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
                                                               
-https://www.freepik.com/premium-vector/iit-specialist-demonstrating-advanced-computer-skills_329257961.htm#fromView=keyword&page=6&position=12&uuid=2bf2944f-0167-4042-8507-c8277a79e4ff&new_detail=true
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F21824398-Lottie-Animation-Woman-working-on-laptop&psig=AOvVaw3qdhEN8ubzabPDJhZQ80_a&ust=1735760001819000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjXkb_k0ooDFQAAAAAdAAAAABAE
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raginisingh2024&label=Profile%20views&color=0e75b6&style=flat" alt="raginisingh2024" /> </p>
 
