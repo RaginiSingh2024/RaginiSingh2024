@@ -1,4 +1,4 @@
-![https://images.app.goo.gl/gq3AGhRPgwzaexURA]
+![https://images.app.goo.gl/gq3AGhRPgwzaexURA]https://images.app.goo.gl/gq3AGhRPgwzaexURA
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
 
