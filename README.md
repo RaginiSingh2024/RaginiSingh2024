@@ -10,15 +10,15 @@
 
 ## 🚀 About Me
                                             
- 👨‍💻 I am a Passionate Learner 
+-  👨‍💻 I am a Passionate Learner 
+
+-  🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions. 
  
- 🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions. 
+- 🌱 I’m currently learning Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.  
  
- 🌱 I’m currently learning Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.  
+- ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality. 
  
- ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality. 
- 
- 💡 I enjoy solving problems, building projects, and participating in hackathons. 
+- 💡 I enjoy solving problems, building projects, and participating in hackathons. 
 
 - 🌱 I’m currently learning **B.Tech CSE Student at ITM SKILLS UNIVERSITY**
 
@@ -40,14 +40,14 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@RaginiSingh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@raginisingh_rajput" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/bQJBXdaX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/bQJBXdaX" height="30" width="40" /></a>
 <a href="https://www.snapchat.com/add/raginis4327" target="blank
-"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/social/snapchat.com"alt="raginis4327"height="30"width="40"/></a>  
+"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/social/snapchat.com"alt="raginis4327"height="30"width="40"/
+</a>  
 </p>
- </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,html,linkedin,postman,vscode"/> <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,html,linkedin,postman,vscode"/> <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />                                                                                                                                                                                                                                                                                                                                                                                                     </div>
 <h2>My contribution</h2>
 
-    
 ![GitHub Snake](https://raw.githubusercontent.com/RaginiSingh2024/snake1/refs/heads/main/github-user-contribution.svg) 
 
 
