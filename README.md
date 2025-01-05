@@ -8,7 +8,17 @@
 <p align="left"> <a href="https://twitter.com/@ raginisingh111" target="blank"><img src="https://img.shields.io/twitter/follow/@ raginisingh111?logo=twitter&style=for-the-badge" alt="@ raginisingh111" /></a> </p>
 
 
-
+## 🚀 About Me
+                                            
+ 👨‍💻 I am a Passionate Learner 
+ 
+ 🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions. 
+ 
+ 🌱 I’m currently learning Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.  
+ 
+ ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality. 
+ 
+ 💡 I enjoy solving problems, building projects, and participating in hackathons. 
 
 - 🌱 I’m currently learning **B.Tech CSE Student at ITM SKILLS UNIVERSITY**
 
