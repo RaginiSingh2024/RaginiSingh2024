@@ -44,7 +44,26 @@
 </p>
  </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-<img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,html,linkedin,postman,vscode"/> <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+<img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,html,linkedin,postman,vscode"/> <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+<h2>My contribution</h2>
+
+<img src="https://raw.githubusercontent.com/RaginiSingh2024/snake1/refs/heads/main/github-user-contribution-3.svg" alt="GitHub Snake" width="4000">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<div align="center">
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaginiSingh2024&theme=react-dark" alt="RaginiSingh2024 Contribution Graph" width="900">
+</a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaginiSingh2024&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaginiSingh2024&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaginiSingh2024&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaginiSingh2024&theme=solarized&utcOffset=5.3)
+
+</div>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
 
     
    
