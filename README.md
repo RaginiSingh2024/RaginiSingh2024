@@ -1,4 +1,4 @@
-[![MasterHead] (https://www.freepik.com/premium-photo/hanging-yellow-bulb-with-other-white-bulbs_974095.htm)(https://www.freepik.com/premium-photo/hanging-yellow-bulb-with-other-white-bulbs_974095.htm)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
