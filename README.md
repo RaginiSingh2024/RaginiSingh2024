@@ -65,14 +65,13 @@
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
-    
+ 
+![GitHub Snake](https://raw.githubusercontent.com/RaginiSingh2024/snake1/refs/heads/main/github-user-contribution.svg)   
    
 
   
   
 
-
-![GitHub Snake](https://raw.githubusercontent.com/RaginiSingh2024/snake1/refs/heads/main/github-user-contribution.svg)
 
 
 
