@@ -47,7 +47,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,py,c,cpp,html,linkedin,postman,vscode"/> <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />                                                                                                                                                                                                                                                                                                                                                                                                        </div>
 <h2>My contribution</h2>
 
-<img src="https://raw.githubusercontent.com/RaginiSingh2024/snake1/refs/heads/main/github-user-contribution-3.svg" alt="GitHub Snake" width="4000">
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
