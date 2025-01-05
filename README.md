@@ -65,11 +65,7 @@
 
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raginisingh2024&show_icons=true&locale=en&layout=compact" alt="raginisingh2024" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raginisingh2024&show_icons=true&locale=en" alt="raginisingh2024" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raginisingh2024&" alt="raginisingh2024" /></p>
 
 # 📊 GitHub Stats:
