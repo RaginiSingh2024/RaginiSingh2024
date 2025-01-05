@@ -48,6 +48,7 @@
 <h2>My contribution</h2>
 
 
+![GitHub Snake](https://raw.githubusercontent.com/RaginiSingh2024/snake1/refs/heads/main/github-user-contribution.svg)  
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 <div align="center">
@@ -72,7 +73,7 @@
   
 
 
-![GitHub Snake](https://raw.githubusercontent.com/RaginiSingh2024/snake1/refs/heads/main/github-user-contribution.svg)   
+   
 
 
 
