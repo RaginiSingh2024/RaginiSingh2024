@@ -58,7 +58,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaginiSingh2024&theme=react-dark" alt="RaginiSingh2024 Contribution Graph" width="900">
 </a>
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaginiSingh2024&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaginiSingh2024&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaginiSingh2024&theme=transparent)
