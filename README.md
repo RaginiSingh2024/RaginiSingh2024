@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
 
-![image](https://github.com/user-attachments/assets/61e77f67-aaaa-4f54-af72-d2f0d5628ede)
-
+<img align="center" alt="coding" width="1000" src="https://github.com/user-attachments/assets/61e77f67-aaaa-4f54-af72-d2f0d5628ede">
+<img align="center" alt="coding" width="1000" src="https://github.com/user-attachments/assets/61e77f67-aaaa-4f54-af72-d2f0d5628ede">
 <p align="left"> <a href="https://twitter.com/@ raginisingh111" target="blank"><img src="https://img.shields.io/twitter/follow/@ raginisingh111?logo=twitter&style=for-the-badge" alt="@ raginisingh111" /></a> </p>
 
 
