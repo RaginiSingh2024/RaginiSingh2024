@@ -1,4 +1,4 @@
-![github-header-image (2)](https://github.com/user-attachments/assets/79d7571c-b700-4e45-8df7-a44e45c677c8)
+
 
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
