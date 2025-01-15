@@ -1,4 +1,6 @@
 
+![banner1](https://github.com/user-attachments/assets/ee63382d-3406-4cc1-b520-cbc5b481bc63)
+
 
 
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>
