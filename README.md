@@ -1,8 +1,4 @@
 
-
-
-
-
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
                                                               
@@ -96,6 +92,10 @@
 ```text
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/RaginiSingh2024.RaginiSingh2024.svg)
 
