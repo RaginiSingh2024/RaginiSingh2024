@@ -37,8 +37,11 @@
 <a href="https://instagram.com/itz_ragini_rajput_111" target="blank"><img align="center"                                                                       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_ragini_rajput_111" height="30" width="40" /></a>                           
 <a href="https://www.youtube.com/c/https://www.youtube.com/@RaginiSingh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@raginisingh_rajput" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/bQJBXdaX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/bQJBXdaX" height="30" width="40" /></a>
-<a href="https://www.snapchat.com/add/raginis4327" target="blank
-"><img align="center" src="https://raw.githubusercontent.com/RaginiSingh2024github-profile-readme-generator/master/src/images/icons/social/snapchat.com"alt="raginis4327"height="30"width="40"/
+
+<a href="https://www.snapchat.com/add/raginis4327?share_id=1dhyD40quz4&locale=en-IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="raginis4327" height="30" width="40" /></a>  
+
+
+
 </a>  
 </p>
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
