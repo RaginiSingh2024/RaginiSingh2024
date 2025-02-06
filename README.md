@@ -99,6 +99,15 @@ Python   3 hrs 58 mins    ██████████████████
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RaginiSingh2024&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![](https://visitcount.itsvg.in/api?id=HakashiKatake&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![giphy](https://github.com/user-attachments/assets/4b1fac6b-bed8-4264-85c8-8638051c6df5)
+
+
+###
+
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/RaginiSingh2024.RaginiSingh2024.svg)
 
