@@ -96,6 +96,9 @@ Python   3 hrs 58 mins    ██████████████████
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RaginiSingh2024&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/RaginiSingh2024.RaginiSingh2024.svg)
 
