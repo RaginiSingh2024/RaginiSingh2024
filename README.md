@@ -88,6 +88,7 @@
 
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=RaginiSingh2024&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
@@ -110,8 +111,44 @@ Python   3 hrs 58 mins    ██████████████████
 
 ###
 
-<!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/RaginiSingh2024.RaginiSingh2024.svg)
+<h4 align="center">
+  
+```diff
++---------------------------------+
+|╦ ╦┌─┐┬  ┬  ┌─┐  ╦ ╦┌─┐┬─┐┬  ┌┬┐┬|
+|╠═╣├┤ │  │  │ │  ║║║│ │├┬┘│   │││|
+|╩ ╩└─┘┴─┘┴─┘└─┘  ╚╩╝└─┘┴└─┴─┘─┴┘o|
++---------------------------------+
+```
+</h4>
+
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@                                                     @@
+@@                                                     @@
+@@                                                     @@
+@@        Programming isn't about what you know        @@
+@@         It's about what you can figure out          @@
+@@                                                     @@
+@@                                                     @@
+@@         .----------------------------.              @@
+@@        | while( ! (succeed=try() ) ) |              @@
+@@         '----------------------------'              @@
+@@                                                     @@
+@@                                                     @@
+@@                                                     @@
+@@                Bugs are proof                       @@
+@@            that you're trying ✨✨                   @@
+@@                                                     @@
+@@                                                     @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</h4>  
+
+
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
