@@ -1,4 +1,4 @@
-<img width="1361" alt="Screenshot 2025-05-18 at 11 18 01 PM 2" src="https://github.com/user-attachments/assets/0f145fa1-68fa-45ba-aa02-76a6e8e40984" />
+
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3
                                                               
