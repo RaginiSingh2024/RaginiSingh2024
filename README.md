@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **B.Tech CSE Student at ITM SKILLS UNIVERSITY**
 
-- 👨‍💻 All of my projects are available at https://github.com/RaginiSingh2024/RaginiSingh2024
+- 👨‍💻 All of my projects are available at https://github.com/RaginiSingh2024
 
 - 📫 How to reach me **raginisingh.sejal@gmail.com**
 
