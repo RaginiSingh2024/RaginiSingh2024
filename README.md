@@ -37,11 +37,8 @@
 <a href="https://www.snapchat.com/add/raginis4327?share_id=1dhyD40quz4&locale=en-IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="raginis4327" height="30" width="40" /></a>  
 </a>  
 
-  
-<div align="center">
-  
  <h2>🛠 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Technical Skills</span></h2>
-                                                                                                                                                <h3 align="left">💻 Programming Languages</h3>
+  <h3 align="left">💻 Programming Languages</h3>
   <p align="left">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -78,7 +75,7 @@
   " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
     <h3 style="color: #F76B8A; margin-top: 0;">Buildhathon 4.0 Website</h3>
     <p style="color: #D4D4F7; font-size: 0.95rem;">
-      An interactive landing page featuring animated sections, modals, and a fully responsive design. This project allowed me to solidify my          HTML5 & CSS3 skills.
+      An interactive landing page featuring animated sections, modals, and a fully responsive design. This project allowed me to solidify my HTML5 & CSS3 skills.
     </p>
     <div style="
     background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
