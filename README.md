@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Software Engineer from India</h3
                                                               
 <img align="center" alt="coding" width="1000" src="https://github.com/user-attachments/assets/61e77f67-aaaa-4f54-af72-d2f0d5628ede">
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Ragini Working GIF" width="100%" height="500px" />
+</p>
 <p align="left"> <a href="https://twitter.com/@ raginisingh111" target="blank">
 
 
