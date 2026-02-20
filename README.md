@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>  
-<h3 align="center">A passionate Software Engineer from India</h3
+<h3 align="center">Full Stack Developer Intern | B.Tech Computer Science (2024–2028)</h3
                                                               
 <img align="center" alt="coding" width="1000" src="https://github.com/user-attachments/assets/61e77f67-aaaa-4f54-af72-d2f0d5628ede">
 <p align="center">
@@ -11,18 +11,18 @@
 
 ## 🚀 About Me
                                             
--  👨‍💻 I am a Passionate Learner 
+-  👨‍💻 I’m a B.Tech Computer Science student at ITM Skills University (2024–2028). 
 
--  🚀 A coding enthusiast weaving a digital journey that blends creativity and innovation into meaningful solutions. 
+-  🚀 Currently working as a Full Stack Developer Intern.
+  
+- 🌱 I build web applications using React, Node.js, Express.js, and MongoDB.  
  
-- 🌱 I’m currently learning Generative AI, C++, and Google AppSheet to expand my expertise in emerging technologies.  
- 
-- ⚡ I am also interested in Web Development, Machine Learning, Artificial Intelligence, and Augmented Reality. 
- 
-- 💡 I enjoy solving problems, building projects, and participating in hackathons. 
+- ⚡ I’m comfortable working with APIs, databases, and real-time features.
+  
+- 💡 I focus on writing clean code and improving my problem-solving skills through DSA.
 
-- 🌱 I’m currently learning **B.Tech CSE Student at ITM SKILLS UNIVERSITY**
-
+- 🌱 Most of the projects here are built while learning by actually implementing features end-to-end.
+- 
 - 👨‍💻 All of my projects are available at https://github.com/RaginiSingh2024
 
 - 📫 How to reach me **raginisingh.sejal@gmail.com**
