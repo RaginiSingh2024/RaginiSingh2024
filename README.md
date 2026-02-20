@@ -22,7 +22,7 @@
 - 💡 I focus on writing clean code and improving my problem-solving skills through DSA.
 
 - 🌱 Most of the projects here are built while learning by actually implementing features end-to-end.
-- 
+  
 - 👨‍💻 All of my projects are available at https://github.com/RaginiSingh2024
 
 - 📫 How to reach me **raginisingh.sejal@gmail.com**
