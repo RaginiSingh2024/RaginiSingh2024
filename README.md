@@ -11,16 +11,11 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
-  <a href="https://www.youtube.com/@Developer_Ragini">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
+<a href="https://drive.google.com/file/d/19pP-1EWqRaepw1SLq5nG0IaE2ME82oLb/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
 
-  <a href="https://drive.google.com/file/d/19pP-1EWqRaepw1SLq5nG0IaE2ME82oLb/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
-  </a>
-</p>
 
-</div>
                                                           
 ## 🚀 About Me
                                             
