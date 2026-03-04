@@ -1,12 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>  
 <h3 align="center">Full Stack Developer Intern | B.Tech Computer Science (2024–2028)</h3
-<div align="center">                                                                                      
+<div align="center">
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ragini-singh-44236b319/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/https://github.com/RaginiSingh2024"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
- <a href="https://www.youtube.com/https://www.youtube.com/@Developer_Ragini"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href=/file/d/19pP-1EWqRaepw1SLq5nG0IaE2ME82oLb/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
+  <a href="https://www.linkedin.com/in/ragini-singh-44236b319">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://github.com/RaginiSingh2024">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+
+  <a href="https://www.youtube.com/@Developer_Ragini">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+  <a href="https://drive.google.com/file/d/19pP-1EWqRaepw1SLq5nG0IaE2ME82oLb/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume">
+  </a>
 </p>
+
+</div>
                                                           
 ## 🚀 About Me
                                             
