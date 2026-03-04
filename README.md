@@ -111,11 +111,11 @@
 ---
 ## 📫 Get In Touch
 
-- 💼 **LinkedIn:** [linkedin.com/in/https://bit.ly/RaginiLinkedIn](https://www.linkedin.com/in/https://bit.ly/RaginiLinkedIn/)
-- 🐙 **GitHub:** [github.com/https://github.com/RaginiSingh2024](https://github.com/https://github.com/RaginiSingh2024)
+- 💼 **LinkedIn:** [linkedin.com/in/ragini-singh-44236b319](https://www.linkedin.com/in/ragini-singh-44236b319)
+- 🐙 **GitHub:** [github.com/RaginiSingh2024](https://github.com/RaginiSingh2024)
 - 🎥 **YouTube:** [youtube.com/@Developer_Ragini](https://www.youtube.com/@Developer_Ragini)
-- 📧 **Email:** Contact me through LinkedIn
-- 📄 **Resume:** [View My Resume]()
+- 📧 **Email:** raginisingh.sejal@gmail.com
+- 📄 **Resume:** [View My Resume](Ragini_Resume.pdf)
 
 ---
 
