@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>  
 <h3 align="center">Full Stack Developer Intern | B.Tech Computer Science (2024–2028)</h3
-                                                              
-<img align="center" alt="coding" width="1000" src="https://github.com/user-attachments/assets/61e77f67-aaaa-4f54-af72-d2f0d5628ede">
+<div align="center">                                                                                      
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Ragini Working GIF" width="100%" height="500px" />
+  <a href="https://www.linkedin.com/in/https://bit.ly/RaginiLinkedIn
+/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/https://github.com/RaginiSingh2024"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+ <a href="https://www.youtube.com/https://www.youtube.com/@Developer_Ragini"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href=/file/d/19pP-1EWqRaepw1SLq5nG0IaE2ME82oLb/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
 </p>
-<p align="left"> <a href="https://twitter.com/@ raginisingh111" target="blank">
-
-
-
+                                                          
 ## 🚀 About Me
                                             
 -  👨‍💻 I’m a B.Tech Computer Science student at ITM Skills University (2024–2028). 
@@ -28,18 +28,7 @@
 - 📫 How to reach me **raginisingh.sejal@gmail.com**
 
 
-<div align="center">
-<h2> <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">🔗 Connect With Me </span></h2>
-<a href="https://twitter.com/@ raginisingh111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ raginisingh111" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragini singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/raginisinghrajpoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raginisinghrajpoot" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/raginis.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/raginis.2025" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_ragini_rajput_111" target="blank"><img align="center"                                                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_ragini_rajput_111" height="30" width="40" /></a>  <a href="https://www.youtube.com/c/https://www.youtube.com/@RaginiSingh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@raginisingh_rajput" height="30" width="40" /></a>
-  <a href="https://discord.gg/https://discord.gg/bQJBXdaX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/bQJBXdaX" height="30" width="40" /></a>
-<a href="https://www.snapchat.com/add/raginis4327?share_id=1dhyD40quz4&locale=en-IN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="raginis4327" height="30" width="40" /></a>  
-</a>  
-  
- <h2>🛠 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Technical Skills</span></h2>
+<h2>🛠 <span style="background: linear-gradient(90deg, #6A82FB, #F76B8A); -webkit-background-clip: text; color: transparent;">Technical Skills</span></h2>
   <h3 align="left">💻 Programming Languages</h3>
   <p align="left">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -107,7 +96,22 @@
 </div>
 
   </div>
-  
+
+  ### 🌐 Portfolio
+**Tech Stack:** React.js, HTML5, CSS3, JavaScript
+- [View Portfolio](https://raginisingh2024.github.io/My_Portfolio/)
+
+---
+## 📫 Get In Touch
+
+- 💼 **LinkedIn:** [linkedin.com/in/https://bit.ly/RaginiLinkedIn](https://www.linkedin.com/in/https://bit.ly/RaginiLinkedIn/)
+- 🐙 **GitHub:** [github.com/https://github.com/RaginiSingh2024](https://github.com/https://github.com/RaginiSingh2024)
+- 🎥 **YouTube:** [youtube.com/@Developer_Ragini](https://www.youtube.com/@Developer_Ragini)
+- 📧 **Email:** Contact me through LinkedIn
+- 📄 **Resume:** [View My Resume]()
+
+---
+
 <h2>My contribution</h2>
 
 ![GitHub Snake](https://raw.githubusercontent.com/RaginiSingh2024/snake1/refs/heads/main/github-user-contribution.svg) 
