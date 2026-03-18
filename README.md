@@ -24,7 +24,9 @@
 </p>
 
 </div>
-
+<p align="center">
+  <img src="banner.gif" width="70%" />
+</p>
                                                           
 ## 🚀 About Me
                                             
