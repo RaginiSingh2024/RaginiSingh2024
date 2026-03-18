@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>  
 <h3 align="center">Full Stack Developer Intern | B.Tech Computer Science (2024–2028)</h3
-<div align="center">
+
  
 <div align="center">
 
@@ -21,13 +21,20 @@
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white">
   </a>
 
-</p>
+<br>
+
+<hr>
 
 <br>
 
-<p align="center">
-  <img src="banner.gif" width="100%" />
-</p>                                                   
+<div align="center">
+  <img src="banner.gif" width="150%" />
+</div>
+
+<br>
+
+
+                                                 
 ## 🚀 About Me
                                             
 -  👨‍💻 I’m a B.Tech Computer Science student at ITM Skills University (2024–2028). 
@@ -111,6 +118,8 @@
 - [View Portfolio](https://raginisingh2024.github.io/My_Portfolio/)
 
 ---
+
+
 ## 📫 Get In Touch
 
 - 💼 **LinkedIn:** [linkedin.com/in/ragini-singh-44236b319](https://www.linkedin.com/in/ragini-singh-44236b319)
@@ -121,6 +130,7 @@
 
 ---
 
+<div align="center">
 <h2>My contribution</h2>
 
 ![GitHub Snake](https://raw.githubusercontent.com/RaginiSingh2024/snake1/refs/heads/main/github-user-contribution.svg) 
@@ -232,7 +242,7 @@ _Random Stuff_
 </div>
 
 
-
+<div align="center">
   ## ⚔️ RPG Character Stats & Skill Tree
 
 ### 🧙‍♂️ **Developer Class: Full Stack Wizard** 🧙‍♂️
