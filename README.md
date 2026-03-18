@@ -33,25 +33,31 @@
 
 <br>
 
-
                                                  
 ## 🚀 About Me
-                                            
--  👨‍💻 I’m a B.Tech Computer Science student at ITM Skills University (2024–2028). 
 
--  🚀 Currently working as a Full Stack Developer Intern.
-  
+<table>
+<tr>
+<td width="70%">
+
+- 👩‍💻 I’m a B.Tech Computer Science student at ITM Skills University (2024–2028).  
+- 🚀 Currently working as a Full Stack Developer Intern.  
 - 🌱 I build web applications using React, Node.js, Express.js, and MongoDB.  
- 
-- ⚡ I’m comfortable working with APIs, databases, and real-time features.
-  
-- 💡 I focus on writing clean code and improving my problem-solving skills through DSA.
+- ⚡ I’m comfortable working with APIs, databases, and real-time features.  
+- 💡 I focus on writing clean code and improving my problem-solving skills through DSA.  
+- 🌱 Most of the projects here are built while learning by actually implementing features end-to-end.  
+- 👩‍💻 All of my projects are available at https://github.com/RaginiSingh2024  
+- 📫 How to reach me raginisingh.sejal@gmail.com  
 
-- 🌱 Most of the projects here are built while learning by actually implementing features end-to-end.
-  
-- 👨‍💻 All of my projects are available at https://github.com/RaginiSingh2024
+</td>
 
-- 📫 How to reach me **raginisingh.sejal@gmail.com**
+<td width="30%" align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="180"/>
+
+</td>
+</tr>
+</table>
 
 
 <div align="center">
