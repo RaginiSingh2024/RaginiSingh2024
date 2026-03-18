@@ -291,7 +291,17 @@ Python   3 hrs 58 mins    ██████████████████
 
 
 ###
+<br>
 
+<p align="center">
+  <b>🧠 There are so many thoughts going through my brain</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="300"/>
+</p>
+
+<br>
 <h4 align="center">
   
 ```diff
