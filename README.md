@@ -23,11 +23,11 @@
 
 </p>
 
-</div>
+<br>
+
 <p align="center">
-  <img src="banner.gif" width="70%" />
-</p>
-                                                          
+  <img src="banner.gif" width="100%" />
+</p>                                                   
 ## 🚀 About Me
                                             
 -  👨‍💻 I’m a B.Tech Computer Science student at ITM Skills University (2024–2028). 
