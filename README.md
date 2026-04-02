@@ -27,11 +27,7 @@
 
 <br>
 
-<div align="center">
-  <img src="banner.gif" width="150%" />
-</div>
 
-<br>
 
                                                  
 ## 🚀 About Me
