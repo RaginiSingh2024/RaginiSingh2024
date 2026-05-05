@@ -25,9 +25,7 @@
 
 <br>
 
-
-
-                                                 
+                                                
 ## 🚀 About Me
 
 <table>
