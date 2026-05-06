@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ragini Singh</h1>  
 <h3 align="center">Full Stack Developer Intern | B.Tech Computer Science (2024–2028)</h3
 <div align="center">
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ragini-singh-44236b319">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
