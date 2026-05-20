@@ -17,7 +17,6 @@
   <a href="Ragini_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white">
   </a>
-
 <br>
 <hr>
 
