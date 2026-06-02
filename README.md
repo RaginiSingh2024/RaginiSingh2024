@@ -46,7 +46,6 @@
 </tr>
 </table>
   
-
 <div align="center">
 
 ## 🛠 Technical Skills
