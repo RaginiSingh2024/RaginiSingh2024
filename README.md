@@ -22,7 +22,7 @@ Building Ideas Into Reality Through Code
 
 <!-- ================= ABOUT ME ================= -->
 <h2 align="center">🚀 About Me</h2> 
-<br>
+<p></p>
 <table>
 <tr>
 
