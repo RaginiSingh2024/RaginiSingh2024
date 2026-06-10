@@ -1,17 +1,13 @@
 <p align="center">
   <img src="./banner.png" alt="Ragini Singh Banner" width="100%">
 </p>
-
 <h1 align="center">Ragini Singh</h1>
 
-<h3 align="center">
-Full Stack Developer • DevOps • AWS • Cloud • GraphQL • Python
-</h3>
-
 <p align="center">
-Building scalable applications • Automating workflows • Exploring cloud technologies 🚀
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;GraphQL+Developer;Python+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+  </a>
 </p>
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ragini-singh-44236b319">
