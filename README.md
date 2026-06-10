@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ragini Singh</h1>  
+
+<p align="center">
+  <img src="./banner.png" alt="Ragini Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Ragini Singh</h1>
 <h3 align="center">Full Stack Developer Intern | B.Tech Computer Science (2024–2028)</h3
 <div align="center">
 <p align="center">
