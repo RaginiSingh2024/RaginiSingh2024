@@ -55,92 +55,86 @@ Building Ideas Into Reality Through Code
 </tr>
 </table>
 
-<h2 align="center">🛠 Technical Skills</h2>
-
-<br>
-
-<h3 align="center">🎯 Main Focus</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,aws,docker,mongodb" />
+<h3>🎯 Main Focus</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=python,aws,docker,mongodb,flutter" />
 </p>
 
-<br>
-
-<h3 align="center">☁️ DevOps & Cloud</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
-</p>
-
-<br>
-
-<h3 align="center">💻 Programming Languages</h3>
-
-<p align="center">
+<h3>💻 Programming Languages</h3>
+<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-<br>
-
-<h3 align="center">🌐 Frontend Development</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<h3>🌐 Full Stack Development</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
 </p>
 
-<br>
-
-<h3 align="center">⚙️ Backend Development</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<br>
-
-<h3 align="center">🗄️ Databases</h3>
-
-<p align="center">
+<h3>🗄️ Databases</h3>
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
-<br>
+<h3>☁️ DevOps & Cloud</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
 
-<h3 align="center">🧰 Tools & Platforms</h3>
-
-<p align="center">
+<h3>🧰 Tools & Platforms</h3>
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-<br>
 
-<h3 align="center">📚 Core Concepts</h3>
+<h3>🤖 AI Tools</h3>
 
-<p align="center">
-System Design • Operating Systems • Computer Networks • DBMS • OOPs
-</p>
+<p>
 
-<br>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<h3 align="center">🌍 Languages</h3>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Windsurf-6C63FF?style=for-the-badge"/>
 
-🇮🇳 Hindi (Fluent) • 🇬🇧 English (Professional)
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<br><br>
-
-🇩🇪 German (A1 Learner) • 🕉 Sanskrit (Learning)
-
-<br><br>
-
-🇮🇳 Marathi (Learning) • 🇪🇸 Spanish (Learning)
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
 
 </p>
 
-<br>
-<hr>
+<h3>📚 Core Concepts</h3>
+
+<p>
+
+<img src="https://img.shields.io/badge/System_Design-6A5ACD?style=for-the-badge&logo=architecture&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer_Networks-2196F3?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DBMS-FF9800?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OOPs-E91E63?style=for-the-badge&logo=java&logoColor=white"/>
+
+</p>
+
+<h3>🌍 Languages</h3>
+
+<p>
+
+<img src="https://img.shields.io/badge/Hindi-Fluent-success?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Sanskrit-Expert-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/German-A1_Learner-yellow?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Marathi-Learning-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spanish-Learning-purple?style=for-the-badge"/>
+
+</p>
 
   ### 🌐 Portfolio
 - [View Portfolio](https://raginisingh2024.github.io/My_Portfolio/)
