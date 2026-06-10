@@ -1,9 +1,7 @@
 <p align="center">
   <img src="./banner.png" alt="Ragini Singh Banner" width="100%">
 </p>
-
 <br>
-
 <h2 align="center">
 Building Ideas Into Reality Through Code
 </h2>
