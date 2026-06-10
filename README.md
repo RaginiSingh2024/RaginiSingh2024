@@ -1,47 +1,73 @@
+<!-- ================= BANNER ================= -->
+
 <p align="center">
   <img src="./banner.png" alt="Ragini Singh Banner" width="100%">
 </p>
-<br>
-<h2 align="center">
+
+<!-- ================= BRAND LINE ================= -->
+
+<h3 align="center">
 Building Ideas Into Reality Through Code
+</h3>
+
+<!-- ================= TYPING EFFECT ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer" alt="Typing SVG" />
+</p>
+
+<br>
+
+<hr>
+
+<!-- ================= ABOUT ME ================= -->
+
+<h2 align="center">
+🚀 About Me
 </h2>
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer">
-</p>
-
-<br>
-<br>
-
-## 🚀 About Me
-<br>
 <table>
 <tr>
-<td width="70%">
+
+<td width="70%" valign="top">
 
 • B.Tech Computer Science student at ITM Skills University (2024–2028)
 
-• Full Stack Developer Intern
+<br><br>
+
+• Currently working as a Full Stack Developer Intern
+
+<br><br>
 
 • Interested in Full Stack Development, DevOps, AWS, Cloud Computing, GraphQL, and Python
 
+<br><br>
+
 • Building scalable web applications using React.js, Node.js, Express.js, MongoDB, and modern web technologies
+
+<br><br>
 
 • Comfortable working with APIs, databases, authentication systems, and real-time applications
 
+<br><br>
+
 • Passionate about clean code, problem solving, and system design
+
+<br><br>
 
 • Currently exploring DevOps, AWS, Cloud Infrastructure, and scalable architectures
 
-• Building real-world projects and learning by implementation
+<br><br>
+
+• Building real-world projects and learning through implementation
 
 </td>
 
 <td width="30%" align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240">
 
 </td>
 
@@ -49,6 +75,8 @@ Building Ideas Into Reality Through Code
 </table>
 
 <br>
+
+<hr>
 
 ## 🌐 Connect With Me
 
