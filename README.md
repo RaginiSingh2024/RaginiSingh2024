@@ -80,66 +80,100 @@ Building Ideas Into Reality Through Code
 <br>
 
 <hr>
-
-## 🛠 Technical Skills
-
-| 💻 Programming Languages | 🌐 Web Development | 🔧 Tools & Platforms |
-|--------------------------|-------------------|----------------------|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
-
 </div>
+<br>
 
-<h2 align="center">🚀 <span style="background: linear-gradient(90deg, #F76B8A, #6A82FB); -webkit-background-clip: text; color: transparent;">Featured Projects</span></h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-  <div style="
-    background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
-    border-radius: 15px;
-    padding: 20px;
-    width: 300px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease;
-    border-left: 4px solid #F76B8A;
-  " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
-    <h3 style="color: #F76B8A; margin-top: 0;">Buildhathon 4.0 Website</h3>
-    <p style="color: #D4D4F7; font-size: 0.95rem;">
-      An interactive landing page featuring animated sections, modals, and a fully responsive design. This project allowed me to solidify my HTML5 & CSS3 skills.
-    </p>
-    <div style="
-    background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
-    border-radius: 15px;
-    padding: 20px;
-    width: 300px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease;
-    border-left: 4px solid #6A82FB;
-  " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
-    <h3 style="color: #6A82FB; margin-top: 0;">To-Do List Web App</h3>
-    <p style="color: #D4D4F7; font-size: 0.95rem;">
-      A dynamic productivity app with local storage persistence, task categorization, and a dark mode toggle. Enhanced my JavaScript DOM manipulation and logical thinking.
-    </p>
-  </div>
-    <div style="
-    background: linear-gradient(145deg, #1e1e2e, #2a2a3a);
-    border-radius: 15px;
-    padding: 20px;
-    width: 300px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-    transition: transform 0.3s ease;
-    border-left: 4px solid #FF61A6;
-  " onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'">
-    <h3 style="color: #FF61A6; margin-top: 0;">Portfolio Website</h3>
-    <p style="color: #D4D4F7; font-size: 0.95rem;">
-      My personal showcase, built from scratch with animated sections, a project gallery, and a working contact form. Applied UI/UX principles and design intuition.
-    </p>
-</div>
+<br>
+<hr>
 
-  </div>
+<h2 align="center">🛠 Technical Skills</h2>
+
+<br>
+
+<h3 align="center">🎯 Main Focus</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,aws,docker,mongodb" />
+</p>
+
+<br>
+
+<h3 align="center">☁️ DevOps & Cloud</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
+
+<br>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+<br>
+
+<h3 align="center">🌐 Frontend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<br>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<br>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+<br>
+
+<h3 align="center">🧰 Tools & Platforms</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+<br>
+
+<h3 align="center">📚 Core Concepts</h3>
+
+<p align="center">
+System Design • Operating Systems • Computer Networks • DBMS • OOPs
+</p>
+
+<br>
+
+<h3 align="center">🌍 Languages</h3>
+
+<p align="center">
+
+🇮🇳 Hindi (Fluent) • 🇬🇧 English (Professional)
+
+<br><br>
+
+🇩🇪 German (A1 Learner) • 🕉 Sanskrit (Learning)
+
+<br><br>
+
+🇮🇳 Marathi (Learning) • 🇪🇸 Spanish (Learning)
+
+</p>
+
+<br>
+<hr>
 
   ### 🌐 Portfolio
-**Tech Stack:** React.js, HTML5, CSS3, JavaScript
 - [View Portfolio](https://raginisingh2024.github.io/My_Portfolio/)
 
 ---
