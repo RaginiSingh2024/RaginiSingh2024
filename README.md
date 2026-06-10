@@ -2,12 +2,12 @@
   <img src="./banner.png" alt="Ragini Singh Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=3000&color=C084FC&center=true&vCenter=true&width=900&lines=Building+Ideas+Into+Reality+Through+Code" alt="Brand Line">
-</p>
+<h2 align="center">
+Building Ideas Into Reality Through Code
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer" alt="Tech Stack">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer">
 </p>
 
 <br>
