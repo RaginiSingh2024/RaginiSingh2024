@@ -15,9 +15,6 @@ Building Ideas Into Reality Through Code
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer" alt="Typing SVG" />
 </p>
-
-<br>
-
 <hr>
 
 <!-- ================= ABOUT ME ================= -->
