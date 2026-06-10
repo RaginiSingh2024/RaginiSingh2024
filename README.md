@@ -55,45 +55,9 @@ Building Ideas Into Reality Through Code
 </tr>
 </table>
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ragini-singh-44236b319">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/RaginiSingh2024">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.youtube.com/@Developer_Ragini">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-<a href="Ragini_Resume.pdf">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white">
-</a>
-
-</p>
-
-<br>
-
-<hr>
-
-<td width="30%" align="center">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="180"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🌐 Connect With Me
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/ragini-singh-44236b319">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -111,21 +75,11 @@ Building Ideas Into Reality Through Code
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white">
 </a>
 
-</div>
+</p>
 
 <br>
 
 <hr>
-```
-
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="180"/>
-
-</td>
-</tr>
-</table>
-  
-<div align="center">
 
 ## 🛠 Technical Skills
 
