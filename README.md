@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=C084FC&center=true&vCenter=true&width=900&lines=Building+Ideas+Into+Reality+Through+Code" alt="Typing Heading">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=3000&color=C084FC&center=true&vCenter=true&width=900&lines=Building+Ideas+Into+Reality+Through+Code" alt="Brand Line">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer" alt="Typing Stack">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer" alt="Tech Stack">
 </p>
 
 <br>
@@ -20,27 +20,58 @@
 
 • B.Tech Computer Science student at ITM Skills University (2024–2028)
 
-• Currently working as a Full Stack Developer Intern
+• Full Stack Developer Intern
 
 • Interested in Full Stack Development, DevOps, AWS, Cloud Computing, GraphQL, and Python
 
-• Building scalable web applications using React.js, Node.js, Express.js, and MongoDB
+• Building scalable web applications using React.js, Node.js, Express.js, MongoDB, and modern web technologies
 
-• Comfortable working with APIs, databases, authentication systems, and real-time features
+• Comfortable working with APIs, databases, authentication systems, and real-time applications
 
-• Passionate about writing clean, maintainable, and efficient code
+• Passionate about clean code, problem solving, and system design
 
-• Continuously learning System Design, Cloud Technologies, and modern development practices
+• Currently exploring DevOps, AWS, Cloud Infrastructure, and scalable architectures
 
-• Most projects here are built by implementing real-world features end-to-end
-
-• Explore my projects:
-<a href="https://github.com/RaginiSingh2024">github.com/RaginiSingh2024</a>
-
-• Contact:
-raginisingh.sejal@gmail.com
+• Building real-world projects and learning by implementation
 
 </td>
+
+<td width="30%" align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ragini-singh-44236b319">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/RaginiSingh2024">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/@Developer_Ragini">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+<a href="Ragini_Resume.pdf">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white">
+</a>
+
+</p>
+
+<br>
+
+<hr>
 
 <td width="30%" align="center">
 
