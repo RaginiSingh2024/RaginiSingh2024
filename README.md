@@ -1,13 +1,59 @@
 <p align="center">
   <img src="./banner.png" alt="Ragini Singh Banner" width="100%">
 </p>
-<h1 align="center">Ragini Singh</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;GraphQL+Developer;Python+Developer;Building+Real-World+Projects" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1500&color=C084FC&center=true&vCenter=true&width=900&lines=Building+Ideas+Into+Reality+Through+Code" alt="Typing Heading">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer" alt="Typing Stack">
+</p>
+
+<br>
+
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="70%">
+
+• B.Tech Computer Science student at ITM Skills University (2024–2028)
+
+• Currently working as a Full Stack Developer Intern
+
+• Interested in Full Stack Development, DevOps, AWS, Cloud Computing, GraphQL, and Python
+
+• Building scalable web applications using React.js, Node.js, Express.js, and MongoDB
+
+• Comfortable working with APIs, databases, authentication systems, and real-time features
+
+• Passionate about writing clean, maintainable, and efficient code
+
+• Continuously learning System Design, Cloud Technologies, and modern development practices
+
+• Most projects here are built by implementing real-world features end-to-end
+
+• Explore my projects:
+<a href="https://github.com/RaginiSingh2024">github.com/RaginiSingh2024</a>
+
+• Contact:
+raginisingh.sejal@gmail.com
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="180"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🌐 Connect With Me
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ragini-singh-44236b319">
@@ -31,25 +77,8 @@
 <br>
 
 <hr>
+```
 
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="70%">
-
-- 👩‍💻 I’m a B.Tech Computer Science student at ITM Skills University (2024–2028).  
-- 🚀 Currently working as a Full Stack Developer Intern.  
-- 🌱 I build web applications using React, Node.js, Express.js, and MongoDB.  
-- ⚡ I’m comfortable working with APIs, databases, and real-time features.  
-- 💡 I focus on writing clean code and improving my problem-solving skills through DSA.  
-- 🌱 Most of the projects here are built while learning by actually implementing features end-to-end.  
-- 👩‍💻 All of my projects are available at https://github.com/RaginiSingh2024  
-- 📫 How to reach me raginisingh.sejal@gmail.com  
-
-</td>
-
-<td width="30%" align="center">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="180"/>
 
