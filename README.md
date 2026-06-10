@@ -21,62 +21,39 @@ Building Ideas Into Reality Through Code
 <hr>
 
 <!-- ================= ABOUT ME ================= -->
-
-<h2 align="center">
-🚀 About Me
-</h2>
-
-<br>
+<h2 align="center">🚀 About Me</h2>
 
 <table>
 <tr>
 
 <td width="70%" valign="top">
 
-• B.Tech Computer Science student at ITM Skills University (2024–2028)
+ • B.Tech Computer Science student at ITM Skills University (2024–2028)<br><br>
 
-<br><br>
+ • Currently working as a Full Stack Developer Intern<br><br>
 
-• Currently working as a Full Stack Developer Intern
+ • Interested in Full Stack Development, DevOps, AWS, Cloud Computing, GraphQL, and Python<br><br>
 
-<br><br>
+ • Building scalable web applications using React.js, Node.js, Express.js, MongoDB, and modern web technologies<br><br>
 
-• Interested in Full Stack Development, DevOps, AWS, Cloud Computing, GraphQL, and Python
+ • Comfortable working with APIs, databases, authentication systems, and real-time applications<br><br>
 
-<br><br>
+ • Passionate about clean code, problem solving, and system design<br><br>
 
-• Building scalable web applications using React.js, Node.js, Express.js, MongoDB, and modern web technologies
+ • Currently exploring DevOps, AWS, Cloud Infrastructure, and scalable architectures<br><br>
 
-<br><br>
-
-• Comfortable working with APIs, databases, authentication systems, and real-time applications
-
-<br><br>
-
-• Passionate about clean code, problem solving, and system design
-
-<br><br>
-
-• Currently exploring DevOps, AWS, Cloud Infrastructure, and scalable architectures
-
-<br><br>
-
-• Building real-world projects and learning through implementation
+ • Building real-world projects and learning through implementation
 
 </td>
 
 <td width="30%" align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<hr>
 
 ## 🌐 Connect With Me
 
