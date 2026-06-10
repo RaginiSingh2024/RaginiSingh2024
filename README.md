@@ -2,18 +2,23 @@
   <img src="./banner.png" alt="Ragini Singh Banner" width="100%">
 </p>
 
+<br>
+
 <h2 align="center">
 Building Ideas Into Reality Through Code
 </h2>
+
+<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer">
 </p>
 
 <br>
+<br>
 
 ## 🚀 About Me
-
+<br>
 <table>
 <tr>
 <td width="70%">
