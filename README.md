@@ -54,37 +54,114 @@ Building Ideas Into Reality Through Code
 
 </tr>
 </table>
+<h2 align="center">🛠 Technical Skills</h2>
 
-<h3>🎯 Main Focus</h3>
+<br>
+
+### 🎯 Main Focus
+
 <p>
-<img src="https://skillicons.dev/icons?i=python,aws,docker,mongodb,flutter" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=flutter" />
 </p>
 
-<h3>💻 Programming Languages</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<img src="https://img.shields.io/badge/System_Design-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-<h3>🌐 Full Stack Development</h3>
+---
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,r" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Scratch-FFAB19?style=for-the-badge&logo=scratch&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 Full Stack Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
 </p>
 
-<h3>🗄️ Databases</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-<h3>☁️ DevOps & Cloud</h3>
+---
+
+### 🗄️ Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-<h3>🧰 Tools & Platforms</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge"/>
 </p>
 
+---
+
+### ☁️ DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-00BFFF?style=for-the-badge"/>
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Windsurf-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 AI Tools
+
+<p>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+</p>
+
+---
+
+### 📚 Core Concepts
+
+<p>
+<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operating_Systems-45B7D1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Networks-96CEB4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-FFEAA7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOPs-DDA0DD?style=for-the-badge"/>
+</p>
+
+---
 
 <h3>🤖 AI Tools</h3>
 
