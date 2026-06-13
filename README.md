@@ -22,7 +22,7 @@ Building Ideas Into Reality Through Code
 <p></p>
 <table>
 <tr>
-
+   
 <td width="70%" valign="top">
 
 • B.Tech Computer Science Student at ITM Skills University (2024–2028)<br><br>
