@@ -55,7 +55,7 @@ Building Ideas Into Reality Through Code
 
 <br>
 
-### 🎯 Main Focus
+### 🎯 Main Focus 
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
