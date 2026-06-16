@@ -50,7 +50,7 @@ Building Ideas Into Reality Through Code
 </td>
 
 </tr>
-</table>
+</table>  
 <h2 align="center">🛠 Technical Skills</h2>
 
 <br>
