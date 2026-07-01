@@ -21,7 +21,7 @@ Building Ideas Into Reality Through Code
 <h2 align="center">🚀 About Me</h2> 
 <p></p>
 <table>
-<tr>
+<tr>   
    
 <td width="70%" valign="top">
 
