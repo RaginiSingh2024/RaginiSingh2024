@@ -18,39 +18,74 @@ Building Ideas Into Reality Through Code
 <hr>
 
 <!-- ================= ABOUT ME ================= -->
-<h2 align="center">🚀 About Me</h2> 
-<p></p>
+
+<h2 align="center">🚀 About Me</h2>
+
 <table>
-<tr>   
-   
-<td width="70%" valign="top">
+<tr>
 
-• B.Tech Computer Science Student at ITM Skills University (2024–2028)<br><br>
+<td width="68%" valign="top">
 
-• Currently Working as a Full Stack Developer Intern<br><br>
+🎓 <b>B.Tech Computer Science Student</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;ITM Skills University (2024–2028)
 
-• Interested in Full Stack Development, DevOps, AWS, Cloud Computing, GraphQL and Python<br><br>
+<br>
 
-• Building Scalable Applications using React.js, Node.js, Express.js and MongoDB<br><br>
+💼 <b>Currently Working as a Full Stack Developer Intern</b>
 
-• Comfortable Working with APIs, Databases and Real-Time Systems<br><br>
+<br>
 
-• Passionate About Clean Code, Problem Solving and System Design<br><br>
+🚀 Passionate about <b>Full Stack Development, DevOps, AWS, Cloud Computing, GraphQL & Python</b>
 
-• Exploring DevOps, AWS Cloud Infrastructure and Scalable Architectures<br><br>
+<br>
 
-• Building Real-World Projects Through Practical Implementation
+⚛️ Building scalable applications using <b>React.js, Node.js, Express.js & MongoDB</b>
+
+<br>
+
+🔗 Comfortable working with <b>APIs, Databases & Real-Time Systems</b>
+
+<br>
+
+🧠 Passionate about <b>Clean Code, Problem Solving & System Design</b>
+
+<br>
+
+☁️ Exploring <b>DevOps, AWS Cloud Infrastructure & Scalable Architectures</b>
+
+<br>
+
+🏗️ Building <b>Real-World Projects</b> through practical implementation
+
+<br>
+
+📖 Reading psychology books after shipping clean code ☕
 
 </td>
 
-<td width="30%" align="center">
+<td width="32%" align="center">
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240"/>
 
 </td>
 
 </tr>
-</table>  
+</table>
+
+<br>
+
+> 🟢 **Currently**
+>
+> 💼 Open to **Internship Opportunities**
+>
+> 🤝 Open to **Open Source Collaborations**
+>
+> 🚀 Building **Full Stack & DevOps Projects**
+>
+> ☁️ Learning **Kubernetes, Terraform & AWS**
+>
+> 🌱 Exploring **AI, Cloud & Scalable Systems**
+
 <h2 align="center">🛠 Technical Skills</h2>
 
 <br>
