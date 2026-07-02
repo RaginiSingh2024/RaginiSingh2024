@@ -64,7 +64,7 @@ Building Ideas Into Reality Through Code
 
 <td width="32%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 
 </td>
 
