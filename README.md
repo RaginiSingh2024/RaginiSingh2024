@@ -16,7 +16,6 @@ Building Ideas Into Reality Through Code
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer" alt="Typing SVG" />
 </p>
 <hr>
-
 <!-- ================= ABOUT ME ================= -->
 
 <h2 align="center">🚀 About Me</h2>
@@ -51,7 +50,7 @@ Building Ideas Into Reality Through Code
 
 <br>
 
-☁️ Exploring <b>DevOps, AWS Cloud Infrastructure & Scalable Architectures</b>
+☁️ Exploring <b>DevOps, Kubernetes, Terraform & AWS Cloud</b>
 
 <br>
 
@@ -63,9 +62,9 @@ Building Ideas Into Reality Through Code
 
 </td>
 
-<td width="32%" align="center">
+<td width="32%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
 
 </td>
 
@@ -74,21 +73,9 @@ Building Ideas Into Reality Through Code
 
 <br>
 
-> 🟢 **Currently**
->
-> 💼 Open to **Internship Opportunities**
->
-> 🤝 Open to **Open Source Collaborations**
->
-> 🚀 Building **Full Stack & DevOps Projects**
->
-> ☁️ Learning **Kubernetes, Terraform & AWS**
->
-> 🌱 Exploring **AI, Cloud & Scalable Systems**
+> 🟢 **Currently** — 💼 Open to Internship Opportunities • 🤝 Open to Open Source Collaborations • 🚀 Building Full Stack & DevOps Projects • ☁️ Learning Kubernetes, Terraform & AWS • 🌱 Exploring AI, Cloud & Scalable Systems
 
-<h2 align="center">🛠 Technical Skills</h2>
 
-<br>
 
 ### 🎯 Main Focus 
 
