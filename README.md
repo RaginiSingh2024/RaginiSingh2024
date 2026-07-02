@@ -64,7 +64,7 @@ Building Ideas Into Reality Through Code
 
 <td width="32%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 
 </td>
 
@@ -75,27 +75,9 @@ Building Ideas Into Reality Through Code
 
 > 🟢 **Currently** — 💼 Open to Internship Opportunities • 🤝 Open to Open Source Collaborations • 🚀 Building Full Stack & DevOps Projects • ☁️ Learning Kubernetes, Terraform & AWS • 🌱 Exploring AI, Cloud & Scalable Systems
 
-
-
-### 🎯 Main Focus 
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=flutter" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/System_Design-6A5ACD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</p>
-
 ---
 
+# 🛠 Technical Skills
 ### 💻 Programming Languages
 
 <p>
@@ -107,11 +89,10 @@ Building Ideas Into Reality Through Code
 </p>
 
 ---
-
 ### 🌐 Full Stack Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,nextjs" />
 </p>
 
 <p>
@@ -120,7 +101,7 @@ Building Ideas Into Reality Through Code
 
 ---
 
-### 🗄️ Databases
+### 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
@@ -135,7 +116,7 @@ Building Ideas Into Reality Through Code
 ### ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,terraform" />
 </p>
 
 <p>
@@ -148,41 +129,15 @@ Building Ideas Into Reality Through Code
 ### 🛠 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,postman" />
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/Windsurf-7B68EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
-
 ### 🤖 AI Tools
-
-<p>
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-</p>
-
----
-
-### 📚 Core Concepts
-
-<p>
-<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-4ECDC4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating_Systems-45B7D1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Networks-96CEB4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-FFEAA7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOPs-DDA0DD?style=for-the-badge"/>
-</p>
-
----
-
-<h3>🤖 AI Tools</h3>
 
 <p>
 
@@ -198,23 +153,28 @@ Building Ideas Into Reality Through Code
 
 </p>
 
-<h3>📚 Core Concepts</h3>
+---
+### 📚 Core Concepts
 
 <p>
 
-<img src="https://img.shields.io/badge/System_Design-6A5ACD?style=for-the-badge&logo=architecture&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-6A5ACD?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Computer_Networks-2196F3?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/DBMS-FF9800?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Networks-2196F3?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OOPs-E91E63?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBMS-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OOPs-E91E63?style=for-the-badge"/>
 
 </p>
 
-<h3>🌍 Languages</h3>
+---
+
+### 🌍 Languages
 
 <p>
 
@@ -222,15 +182,15 @@ Building Ideas Into Reality Through Code
 
 <img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Sanskrit-Expert-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Marathi-Learning-red?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/German-A1_Learner-yellow?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Marathi-Learning-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Spanish-Learning-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sanskrit-Basic-orange?style=for-the-badge"/>
 
 </p>
+
+---
 
   ### 🌐 Portfolio
 - [View Portfolio](https://raginisingh2024.github.io/My_Portfolio/)
