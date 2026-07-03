@@ -73,9 +73,24 @@ Building Ideas Into Reality Through Code
 
 <br>
 
-> 🟢 **Currently** — 💼 Open to Internship Opportunities • 🤝 Open to Open Source Collaborations • 🚀 Building Full Stack & DevOps Projects • ☁️ Learning Kubernetes, Terraform & AWS • 🌱 Exploring AI, Cloud & Scalable Systems
+<h2 align="center">✨ Currently</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Available%20for-Internships-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Collaborations-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Building-Full%20Stack%20%26%20DevOps-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Kubernetes%20•%20Terraform%20•%20AWS-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Exploring-AI%20•%20Cloud%20•%20Scalable%20Systems-00BFA6?style=for-the-badge"/>
+
+</p>
 
 ---
+
 
 # 🛠 Technical Skills
 ### 💻 Programming Languages
