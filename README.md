@@ -91,6 +91,164 @@ Building Ideas Into Reality Through Code
 
 ---
 
+<h2 align="center">Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🎓 Externship Manager</h3>
+
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135810.png" width="110"/>
+
+<h4>Production-Ready Internship Management Platform</h4>
+
+<p align="center">
+Collaborative full-stack internship management platform featuring role-based authentication,
+attendance, project tracking, dashboards, REST APIs, Socket.IO real-time chat,
+and deployment for real users.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socket.io"/>
+
+</p>
+
+<a href="https://externship-manager-webapp-yyg8.onrender.com/">
+<img src="https://img.shields.io/badge/Live_Demo-ff4b91?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RaginiSingh2024/externship-manager-webapp">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🌍 Pehchan NGO Platform</h3>
+
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135789.png" width="110"/>
+
+<h4>NGO & Community Management Website</h4>
+
+<p align="center">
+Developed during a 4-month internship for a real NGO. Supports volunteering,
+community awareness, donations, events, and responsive multi-page management.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Responsive-success?style=flat-square"/>
+
+</p>
+
+<a href="https://pehchanyui.in">
+<img src="https://img.shields.io/badge/Live_Demo-ff4b91?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RaginiSingh2024/pehchan-webapp-main">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h3>🎵 JukeboxSync</h3>
+
+<img src="https://cdn-icons-png.flaticon.com/512/3659/3659784.png" width="110"/>
+
+<h4>Real-Time Collaborative Music Platform</h4>
+
+<p align="center">
+MERN + Socket.IO application where users join rooms,
+create synchronized playlists, vote songs,
+and enjoy collaborative music sessions in real time.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Socket.IO-000000?style=flat-square&logo=socket.io"/>
+
+</p>
+
+<a href="https://github.com/RaginiSingh2024/JukeboxSync-MERN-Realtime-Collaborative-Music-Playlist">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>📊 Inventory Forecasting</h3>
+
+<img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width="110"/>
+
+<h4>Inventory Forecasting & Analytics System</h4>
+
+<p align="center">
+Inventory management platform with authentication,
+forecast prediction, reporting dashboard,
+Firebase integration and business analytics.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+</p>
+
+<a href="https://inventory-management-c3fbc8.netlify.app/">
+<img src="https://img.shields.io/badge/Live_Demo-ff4b91?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/RaginiSingh2024/Inventory_Forecasting_main">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
 
 # 🛠 Technical Skills
 ### 💻 Programming Languages
