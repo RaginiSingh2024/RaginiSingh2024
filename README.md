@@ -36,7 +36,7 @@ Building Ideas Into Reality Through Code
 
 🚀 Passionate about <b>Full Stack Development, DevOps, AWS, Cloud Computing, GraphQL & Python</b>
 
-<br>
+<br>  
 
 ⚛️ Building scalable applications using <b>React.js, Node.js, Express.js & MongoDB</b>
 
