@@ -193,6 +193,10 @@ and enjoy collaborative music sessions in real time.
 
 </p>
 
+<a href="https://https://jukebox-sync-client.vercel.app">
+<img src="https://img.shields.io/badge/Live_Demo-ff4b91?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 <a href="https://github.com/RaginiSingh2024/JukeboxSync-MERN-Realtime-Collaborative-Music-Playlist">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
