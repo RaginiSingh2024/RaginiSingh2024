@@ -128,10 +128,6 @@ and deployment for real users.
 <img src="https://img.shields.io/badge/Live_Demo-ff4b91?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/RaginiSingh2024/externship-manager-webapp">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </td>
 
 <td width="50%" align="center">
@@ -161,10 +157,6 @@ community awareness, donations, events, and responsive multi-page management.
 
 <a href="https://pehchanyui.in">
 <img src="https://img.shields.io/badge/Live_Demo-ff4b91?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RaginiSingh2024/pehchan-webapp-main">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
