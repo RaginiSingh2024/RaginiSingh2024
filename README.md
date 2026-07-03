@@ -632,14 +632,18 @@ Python   3 hrs 58 mins    ██████████████████
  |___|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|___| 
 (_____)                                                 (_____)
 ```
+<br>
 
-</h4>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B69,100:5B2C6F&height=2&section=header"/>
+</p>
 
-  
+<h2 align="center">
+Keep learning. Keep building. Keep growing.
+</h2>
 
+<br>
 
-
-
-
-
-
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:C084FC,100:F472B6&height=140&section=footer"/>
+</p>
