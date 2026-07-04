@@ -7,7 +7,7 @@
 <!-- ================= BRAND LINE ================= -->
  
 <h3 align="center">
-Building Ideas Into Reality Through Code
+Building Ideas Into Reality Through Code 
 </h3>
 
 <!-- ================= TYPING EFFECT ================= -->
