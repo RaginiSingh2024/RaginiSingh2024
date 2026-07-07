@@ -6,7 +6,7 @@
 
 <!-- ================= BRAND LINE ================= -->
 
-<h3 align="center">
+<h3 align="center">  
 Building Ideas Into Reality Through Code 
 </h3>
 
