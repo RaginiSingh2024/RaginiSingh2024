@@ -6,7 +6,7 @@
 
 <!-- ================= BRAND LINE ================= -->   
  
-<h3 align="center">  
+<h3 align="center"> 
 Building Ideas Into Reality Through Code 
 </h3>
 
@@ -642,7 +642,7 @@ Python   3 hrs 58 mins    ██████████████████
 Keep learning. Keep building. Keep growing.
 </h2>
 
-<br>
+<br> 
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:C084FC,100:F472B6&height=140&section=footer"/>
