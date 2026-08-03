@@ -508,9 +508,6 @@ _Random Stuff_
 ╚═════════════════════════════════════════════════╝
 ```
 
-
-
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=RaginiSingh2024&theme=radical&no-frame=false&no-bg=true&margin-w=4)
