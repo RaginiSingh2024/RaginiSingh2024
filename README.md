@@ -20,7 +20,7 @@ Building Ideas Into Reality Through Code
 
 <h2 align="center">🚀 About Me</h2>
 
-<table>
+<table> 
 <tr>
 
 <td width="68%" valign="top">
