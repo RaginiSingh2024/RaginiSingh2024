@@ -13,9 +13,10 @@ Building Ideas Into Reality Through Code
 <!-- ================= TYPING EFFECT ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Enthusiast;AWS+%26+Cloud+Learner;Cloud+Computing+Explorer;GraphQL+Developer;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Developer;Technical+Engineer;Team+Lead;DevOps+Engineer" alt="Typing SVG" />
 </p>
 <hr>
+
 <!-- ================= ABOUT ME ================= -->
 
 <h2 align="center">🚀 About Me</h2>
