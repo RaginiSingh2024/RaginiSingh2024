@@ -16,50 +16,32 @@ Building Ideas Into Reality Through Code
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Developer;Technical+Engineer;Team+Lead;DevOps+Engineer" alt="Typing SVG" />
 </p>
 <hr>
-
 <!-- ================= ABOUT ME ================= -->
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
-<table> 
+<table>
 <tr>
 
 <td width="68%" valign="top">
 
-🎓 <b>B.Tech Computer Science Student</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;ITM Skills University (2024–2028)
+<b> • B.Tech Computer Science Student</b><br> ITM Skills University (2024–2028)<br><br>
 
-<br>
+<b>• Software Engineer at Elevate Code</b><br><br>
 
-💼 <b>Currently Working as a Full Stack Developer Intern</b>
+• Focused on <b>Full Stack Development, Cloud & DevOps</b><br><br>
 
-<br>
+• Building scalable applications using <b>React.js, Node.js, Express.js & MongoDB</b><br><br>
 
-🚀 Passionate about <b>Full Stack Development, DevOps, AWS, Cloud Computing, GraphQL & Python</b>
+• Comfortable working with <b>APIs, Databases & Real-Time Systems</b><br><br>
 
-<br>  
+• Passionate about <b>Clean Code, Problem Solving & System Design</b><br><br>
 
-⚛️ Building scalable applications using <b>React.js, Node.js, Express.js & MongoDB</b>
+• Building and exploring <b>cloud-native solutions with AWS, Docker, Kubernetes & Terraform</b><br><br>
 
-<br>
+• Building <b>Real-World Projects</b> through practical implementation<br><br>
 
-🔗 Comfortable working with <b>APIs, Databases & Real-Time Systems</b>
-
-<br>
-
-🧠 Passionate about <b>Clean Code, Problem Solving & System Design</b>
-
-<br>
-
-☁️ Exploring <b>DevOps, Kubernetes, Terraform & AWS Cloud</b>
-
-<br>
-
-🏗️ Building <b>Real-World Projects</b> through practical implementation
-
-<br>
-
-📖 Reading psychology books after shipping clean code ☕
+• Reading psychology books after shipping clean code
 
 </td>
 
