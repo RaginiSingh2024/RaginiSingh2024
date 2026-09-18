@@ -365,21 +365,7 @@ Firebase integration and business analytics.
 <img src="https://komarev.com/ghpvc/?username=RaginiSingh2024E&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-  ### 🌐 Portfolio
-- [View Portfolio](https://raginisingh2024.github.io/My_Portfolio/)
-
----
-
-
-## 📫 Get In Touch
-
-- 💼 **LinkedIn:** [linkedin.com/in/ragini-singh-44236b319](https://www.linkedin.com/in/ragini-singh-44236b319)
-- 🐙 **GitHub:** [github.com/RaginiSingh2024](https://github.com/RaginiSingh2024)
-- 🎥 **YouTube:** [youtube.com/@Developer_Ragini](https://www.youtube.com/@Developer_Ragini)
-- 📧 **Email:** raginisingh.sejal@gmail.com
-- 📄 **Resume:** [View My Resume](Ragini_Resume.pdf)
-
----
+ 
 
 <div align="center">
 <h2>My contribution</h2>
