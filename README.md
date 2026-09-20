@@ -3,7 +3,6 @@
 <p align="center">
   <img src="./banner.png" alt="Ragini Singh Banner" width="100%">
 </p>    
-
 <!-- ================= BRAND LINE ================= -->   
  
 <h3 align="center">  
