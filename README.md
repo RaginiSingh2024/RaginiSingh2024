@@ -15,45 +15,20 @@ Building Ideas Into Reality Through Code
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Developer;Technical+Engineer;Team+Lead;DevOps+Engineer" alt="Typing SVG" />
 </p>
 <hr>
-<!-- ================= ABOUT ME ================= -->
 
-<h2 align="center">About Me</h2>
+---
 
-<table>
-<tr>
+## 👩‍💻 About Me
 
-<td width="68%" valign="top">
+I’m a Computer Science and Engineering student at ITM Skills University (2024–2028), passionate about software engineering and building practical, scalable applications. Currently working as a Software Engineer at Elevate Code, I enjoy developing solutions, exploring new technologies, and solving real-world problems through code.
 
-<b> • B.Tech Computer Science Student</b><br> ITM Skills University (2024–2028)<br><br>
+My interests include backend development, cloud computing, DevOps, and system design. I work with technologies such as Python, JavaScript, Node.js, Express.js, MongoDB, and Firebase, while continuously improving my technical skills through hands-on projects.
 
-<b>• Software Engineer at Elevate Code</b><br><br>
+Beyond coding, I actively participate in hackathons, collaborate with developers, and explore open-source contributions. My goal is to grow as a software engineer by building reliable applications, strengthening my problem-solving skills, and learning through real-world experience.
 
-• Focused on <b>Full Stack Development, Cloud & DevOps</b><br><br>
+---
 
-• Building scalable applications using <b>React.js, Node.js, Express.js & MongoDB</b><br><br>
 
-• Comfortable working with <b>APIs, Databases & Real-Time Systems</b><br><br>
-
-• Passionate about <b>Clean Code, Problem Solving & System Design</b><br><br>
-
-• Building and exploring <b>cloud-native solutions with AWS, Docker, Kubernetes & Terraform</b><br><br>
-
-• Building <b>Real-World Projects</b> through practical implementation<br><br>
-
-• Reading psychology books after shipping clean code
-
-</td>
-
-<td width="32%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
 
 <h2 align="center">✨ Currently</h2>
 
